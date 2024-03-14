@@ -1,0 +1,49 @@
+
+/*******************************************/
+h1{
+  text-align: center;
+  
+}
+
+ul{
+  width: 300px;
+  height: 565px;
+  margin: 0 auto;
+  list-style: none;
+ 
+
+}
+li{
+  width: 296px;
+  height: 70px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+#green{
+  background: rgb(0, 107, 48);
+}
+#yellow{
+  background: rgb(253, 245, 0);
+}
+#red{
+  background: rgb(222, 31, 2);
+}
+#blue{
+  background: rgb(24, 67, 167);
+}
+#pink{
+  background:rgba(232, 5, 153, 0.875);
+}
+#grey{
+  background: rgba(128, 128, 128, 0.877);
+}
+#black{
+  background:rgba(0, 0, 0, 0.96);
+}
+#orange{
+  background:rgb(255, 102, 0);
+}
+
+
