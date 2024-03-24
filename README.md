@@ -8,9 +8,6 @@ Alter the background color for a YouTube Channel to make our Channel look awesom
 
 **TECH USED:** HTML, CSS, JavaScript
 
-## Optimizations
-Rather than every seconds, we would like to alter each image change after ten seconds.
-
 ## LESSONS LEARNED:
 Understand the principles of JavaScript.
 
